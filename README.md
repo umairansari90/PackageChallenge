@@ -28,8 +28,11 @@ For each set of things that you put into the package provide a list (items’ in
 by comma). E.g.
 
 4
+
 \-
+
 2,7
+
 8,9
 
 Constraints:
